@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Численное дифференцирование", "Численное дифференцирование\Численное дифференцирование.vcxproj", "{132357FA-F1E3-4D30-B066-89657C2002F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Debug|x64.ActiveCfg = Debug|x64
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Debug|x64.Build.0 = Debug|x64
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Debug|x86.Build.0 = Debug|Win32
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Release|x64.ActiveCfg = Release|x64
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Release|x64.Build.0 = Release|x64
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Release|x86.ActiveCfg = Release|Win32
+		{132357FA-F1E3-4D30-B066-89657C2002F5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F3F5EA4-4927-4133-A6BD-01D0F9E66063}
+	EndGlobalSection
+EndGlobal
