@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void Out(double* matrix, int i)				//Test1234
+void Out(double* matrix, int i)				//Test12345678
 {
 	for (int j = 0; j < i; j++)
 	{
